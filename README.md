@@ -1,4 +1,7 @@
-### Hi there 👋
+### ABOUT ME 👋
+
+- 🔭 I’m currently working on china
+- 📫 http://laiyefei.com
 
 <!--
 **laiyefei/laiyefei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
